@@ -1,2 +1,41 @@
-# all-restaurants-in-santa-maria-santa-barbara-metro-california-us-sample-547118
-Free BeamStation sample for All Restaurants in Santa Maria-Santa Barbara (Metro), California, US (145 records in the full dataset)
+# All Restaurants in Santa Maria-Santa Barbara (Metro), California, US
+
+> Free BeamStation sample export with 14 rows and masked direct-contact fields.
+
+## Snapshot
+
+| Field | Value |
+|---|---|
+| Dataset ID | `547118` |
+| Location | Santa Maria-Santa Barbara, CA |
+| Category | Restaurants |
+| Full dataset size | 145 records |
+| Free sample size | 14 records (9.66%) |
+| Last export | 2026-03-31T14:13:50.314338+00:00 |
+| Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-santa-maria-santa-barbara-metro-california-us-sample-547118/releases/download/sample-latest/beamstation_547118_restaurants-us-santamariasantabarbaraca_SAMPLE_DIST.csv) |
+
+## What is in this sample
+
+This sample is generated directly from the BeamStation export pipeline and combines the `complete` and `insights` export profiles into one evaluation CSV.
+
+Included signals:
+- business profile and location fields
+- ratings, review counts, and review activity
+- Beam Score and competitive metrics
+- sentiment and percentile features
+- social profile signals
+- masked email and masked phone fields
+
+## Get the full dataset
+
+The full commercial dataset is available in the BeamStation catalog:
+
+[https://beamstation.com/datasets](https://beamstation.com/datasets)
+
+Search for dataset ID `547118` on BeamStation if you want the exact commercial listing.
+
+## Notes
+
+- This repository only contains a free sample.
+- Contact data that drives the commercial value is partially masked.
+- The source sample file is mirrored from BeamStation B2 storage and refreshed from CentralDB exports.
