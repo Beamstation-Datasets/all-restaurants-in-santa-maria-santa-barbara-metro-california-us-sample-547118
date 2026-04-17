@@ -1,12 +1,12 @@
 {
-  "export_job_id": "97ae7b6e-96ac-490e-bd8d-41a56c979a06",
+  "export_job_id": "b30f10f5-29b1-4e6d-9999-d4ebf713e593",
   "id_short": 547118,
-  "published_at": "2026-04-13T19:10:28Z",
+  "published_at": "2026-04-17T19:37:49Z",
   "repo_name": "all-restaurants-in-santa-maria-santa-barbara-metro-california-us-sample-547118",
   "sample_asset_name": "beamstation_547118_restaurants-us-santamariasantabarbaraca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/547118/beamstation_547118_restaurants-us-santamariasantabarbaraca_SAMPLE_DIST.csv",
-  "sample_records": 14,
-  "sample_sha256": "ef2f04a9cb5e4beb88b3621d2da51fc73f40a94bd2a1a42680dd997b5d1114c9",
-  "sample_size_bytes": 70570,
-  "total_records": 145
+  "sample_records": 18,
+  "sample_sha256": "8f89b69cbe8441fbeea834ac91685c92e176388effce7b49e74d8c0a40efed1d",
+  "sample_size_bytes": 88505,
+  "total_records": 183
 }
